@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Music, MapPin, Heart, Users } from 'lucide-react';
 
